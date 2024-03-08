@@ -1,0 +1,162 @@
+{
+  "websites": [
+    {
+      "id": 1,
+      "publishDate": "9 Feb 2024",
+      "url": "https://www.cavempt.com/",
+      "description": "An e-com with background interaction that both structures and guides, this site for Cavempt is full of moments of personality.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "categories": ["E-Commerce", "Unique", "Fun", "Animation"]
+    },
+    {
+      "id": 2,
+      "publishDate": "6 August 2023",
+      "url": "https://www.surelywork.com/",
+      "description": "A global creative network focused on freelance job listings.",
+      "technologies": ["HTML", "CSS", "TypeScript", "React", "NextJS"],
+      "categories": ["Job Search", "Minimalist", "Monochrome"]
+    },
+    {
+      "id": 3,
+      "publishDate": "3 July 2023",
+      "url": "https://y-n10.com/",
+      "description": "What else can you expect from the family that created Nintendo? A delightful single-page scroller living in a video game world.",
+      "technologies": ["HTML", "CSS", "JavaScript", "WebGL"],
+      "categories": ["Unique", "Animation", "Canvas", "3D"]
+    },
+    {
+      "id": 4,
+      "publishDate": "29 May 2023",
+      "url": "https://gt-maru.com/",
+      "description": "Grilli Type are back with a new font and joyful microsite that tells the story behind their homage to Japanese signage.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "categories": ["Fun", "Colourful", "Unique"]
+    },
+    {
+      "id": 5,
+      "publishDate": "4 April 2023",
+      "url": "https://www.cameronsworld.net/",
+      "description": "A love letter to the Internet of old. Cameron's World is a web-collage of text and images excavated from the buried neighbourhoods of archived GeoCities pages (1994–2009).",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "categories": ["Unique", "Animation", "Retro", "Colourful"]
+    },
+    {
+      "id": 6,
+      "publishDate": "2 March 2023",
+      "url": "https://rdtr01.xl.digital/",
+      "description": "An experiment utilising machine learning and Three.js to show how far hand tracking in the browser has come.",
+      "technologies": ["HTML", "CSS", "JavaScript", "ThreeJS"],
+      "categories": ["AI", "Fun", "Experimental"]
+    },
+    {
+      "id": 7,
+      "publishDate": "2 Feb 2023",
+      "url": "https://twul.ch/",
+      "description": "An audio project with a continuous, almost architectural visualiser for Talk With Urban Landscapes.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "categories": ["Audio", "Minimalist", "Unique", "Monochrome"]
+    },
+    {
+      "id": 8,
+      "publishDate": "5 Jan 2023",
+      "url": "https://yuannstudio.com/",
+      "description": "A timeline-based portfolio site for film director Yuann that features a layered 3D preview.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "categories": ["Portfolio", "Video", "Fun"]
+    },
+    {
+      "id": 9,
+      "publishDate": "28 Dec 2022",
+      "url": "https://nosajthing.com/",
+      "description": "An e-com with background interaction that both structures and guides, this site for Cavempt is full of moments of personality.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "categories": ["Audio", "Artist", "Portfolio", "AI", "Fun"]
+    },
+    {
+      "id": 10,
+      "publishDate": "9 Feb 2024",
+      "url": "https://www.laurenbamford.com/",
+      "description": "A slideshow portfolio that's full of fluidity with multiple viewing modes for Lauren Bamford.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "categories": ["Portfolio", "Photography", "Animation", "Unique"]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Portfolio"
+    },
+    {
+      "id": 2,
+      "name": "Unique"
+    },
+    {
+      "id": 3,
+      "name": "Minimalist"
+    },
+    {
+      "id": 4,
+      "name": "E-Commerce"
+    },
+    {
+      "id": 5,
+      "name": "Colourful"
+    },
+    {
+      "id": 6,
+      "name": "Monochrome"
+    },
+    {
+      "id": 7,
+      "name": "Blog"
+    },
+    {
+      "id": 8,
+      "name": "Photography"
+    },
+    {
+      "id": 9,
+      "name": "Video"
+    },
+    {
+      "id": 10,
+      "name": "Weird"
+    },
+    {
+      "id": 11,
+      "name": "Retro"
+    },
+    {
+      "id": 12,
+       "name": "Audio"
+    },
+    {
+      "id": 12,
+       "name": "AI"
+    },
+    {
+      "id": 13,
+      "name": "Job Search"
+    },
+    {
+      "id": 14,
+      "name": "Animation"
+    },
+    {
+      "id": 15,
+      "name": "Experimental"
+    },
+    {
+      "id": 16,
+      "name": "3D"
+    }
+  ],
+  "ratings": [
+    {
+      "id": 1,
+      "websiteId": 1,
+      "rating": 4,
+      "comment": "..."
+    }
+  ]
+}
