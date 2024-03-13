@@ -2,83 +2,162 @@
   "websites": [
     {
       "id": 1,
-      "publishDate": "9 Feb 2024",
+      "publishDate": "Feb 9, 2024",
       "url": "https://www.cavempt.com/",
       "description": "An e-com with background interaction that both structures and guides, this site for Cavempt is full of moments of personality.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "categories": ["E-Commerce", "Unique", "Fun", "Animation"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "E-Commerce",
+        "Animation"
+      ]
     },
     {
       "id": 2,
-      "publishDate": "6 August 2023",
+      "publishDate": "August 6, 2023",
       "url": "https://www.surelywork.com/",
       "description": "A global creative network focused on freelance job listings.",
-      "technologies": ["HTML", "CSS", "TypeScript", "React", "NextJS"],
-      "categories": ["Job Search", "Minimalist", "Monochrome"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "React",
+        "Next.js"
+      ],
+      "categories": [
+        "Minimalist",
+        "Monochrome",
+        "Web App"
+      ]
     },
     {
       "id": 3,
-      "publishDate": "3 July 2023",
+      "publishDate": "July 3, 2023",
       "url": "https://y-n10.com/",
       "description": "What else can you expect from the family that created Nintendo? A delightful single-page scroller living in a video game world.",
-      "technologies": ["HTML", "CSS", "JavaScript", "WebGL"],
-      "categories": ["Unique", "Animation", "Canvas", "3D"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "WebGL"
+      ],
+      "categories": [
+        "Animation",
+        "3D"
+      ]
     },
     {
       "id": 4,
-      "publishDate": "29 May 2023",
+      "publishDate": "May 29, 2023",
       "url": "https://gt-maru.com/",
       "description": "Grilli Type are back with a new font and joyful microsite that tells the story behind their homage to Japanese signage.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "categories": ["Fun", "Colourful", "Unique"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "Fun",
+        "Colourful"
+      ]
     },
     {
       "id": 5,
-      "publishDate": "4 April 2023",
+      "publishDate": "April 4, 2023",
       "url": "https://www.cameronsworld.net/",
       "description": "A love letter to the Internet of old. Cameron's World is a web-collage of text and images excavated from the buried neighbourhoods of archived GeoCities pages (1994–2009).",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "categories": ["Unique", "Animation", "Retro", "Colourful"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "Animation",
+        "Retro",
+        "Colourful"
+      ]
     },
     {
       "id": 6,
-      "publishDate": "2 March 2023",
-      "url": "https://rdtr01.xl.digital/",
-      "description": "An experiment utilising machine learning and Three.js to show how far hand tracking in the browser has come.",
-      "technologies": ["HTML", "CSS", "JavaScript", "ThreeJS"],
-      "categories": ["AI", "Fun", "Experimental"]
+      "publishDate": "March 2, 2023",
+      "url": "https://ascii.theater/",
+      "description": "A unique retro styled site which provides free distorted movies which can be played in your terminal.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "AI",
+        "Experimental",
+        "Retro"
+      ]
     },
     {
       "id": 7,
-      "publishDate": "2 Feb 2023",
+      "publishDate": "Feb 2, 2023",
       "url": "https://twul.ch/",
       "description": "An audio project with a continuous, almost architectural visualiser for Talk With Urban Landscapes.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "categories": ["Audio", "Minimalist", "Unique", "Monochrome"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "Audio",
+        "Minimalist",
+        "Monochrome"
+      ]
     },
     {
       "id": 8,
-      "publishDate": "5 Jan 2023",
+      "publishDate": "Jan 5, 2023",
       "url": "https://yuannstudio.com/",
       "description": "A timeline-based portfolio site for film director Yuann that features a layered 3D preview.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "categories": ["Portfolio", "Video", "Fun"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "Portfolio",
+        "Video",
+        "Fun"
+      ]
     },
     {
       "id": 9,
-      "publishDate": "28 Dec 2022",
+      "publishDate": "Dec 28, 2022",
       "url": "https://nosajthing.com/",
       "description": "An e-com with background interaction that both structures and guides, this site for Cavempt is full of moments of personality.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "categories": ["Audio", "Artist", "Portfolio", "AI", "Fun"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "Audio",
+        "Portfolio"
+      ]
     },
     {
       "id": 10,
-      "publishDate": "9 Feb 2024",
+      "publishDate": "Nov 9, 2022",
       "url": "https://www.laurenbamford.com/",
       "description": "A slideshow portfolio that's full of fluidity with multiple viewing modes for Lauren Bamford.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "categories": ["Portfolio", "Photography", "Animation", "Unique"]
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "categories": [
+        "Portfolio",
+        "Photography",
+        "Animation"
+      ]
     }
   ],
   "categories": [
@@ -88,75 +167,89 @@
     },
     {
       "id": 2,
-      "name": "Unique"
-    },
-    {
-      "id": 3,
-      "name": "Minimalist"
-    },
-    {
-      "id": 4,
       "name": "E-Commerce"
     },
     {
-      "id": 5,
-      "name": "Colourful"
-    },
-    {
-      "id": 6,
-      "name": "Monochrome"
-    },
-    {
-      "id": 7,
+      "id": 3,
       "name": "Blog"
     },
     {
-      "id": 8,
-      "name": "Photography"
+      "id": 4,
+      "name": "Web App"
     },
     {
-      "id": 9,
-      "name": "Video"
+      "id": 5,
+      "name": "Minimalist"
     },
     {
-      "id": 10,
-      "name": "Weird"
-    },
-    {
-      "id": 11,
+      "id": 6,
       "name": "Retro"
     },
     {
-      "id": 12,
-       "name": "Audio"
+      "id": 7,
+      "name": "Monochrome"
+    },
+    {
+      "id": 8,
+      "name": "Colourful"
+    },
+    {
+      "id": 9,
+      "name": "Photography"
+    },
+    {
+      "id": 10,
+      "name": "Video"
+    },
+    {
+      "id": 11,
+      "name": "Audio"
     },
     {
       "id": 12,
-       "name": "AI"
-    },
-    {
-      "id": 13,
-      "name": "Job Search"
-    },
-    {
-      "id": 14,
       "name": "Animation"
     },
     {
-      "id": 15,
+      "id": 13,
       "name": "Experimental"
     },
     {
-      "id": 16,
+      "id": 14,
       "name": "3D"
     }
   ],
-  "ratings": [
+  "technologies": [
     {
       "id": 1,
-      "websiteId": 1,
-      "rating": 4,
-      "comment": "..."
+      "name": "HTML"
+    },
+    {
+      "id": 2,
+      "name": "CSS"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript"
+    },
+    {
+      "id": 4,
+      "name": "TypeScript"
+    },
+    {
+      "id": 5,
+      "name": "React"
+    },
+    {
+      "id": 6,
+      "name": "Next.js"
+    },
+    {
+      "id": 7,
+      "name": "WebGL"
+    },
+    {
+      "id": 8,
+      "name": "Three.js"
     }
   ]
 }
