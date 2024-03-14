@@ -16,8 +16,6 @@
       ]
     },
     {
-      "id": 2,
-      "publishDate": "August 6, 2023",
       "url": "https://www.surelywork.com/",
       "description": "A global creative network focused on freelance job listings.",
       "technologies": [
@@ -31,12 +29,14 @@
         "Minimalist",
         "Monochrome",
         "Web App"
-      ]
+      ],
+      "publishDate": "March 14, 2024",
+      "id": 2
     },
     {
       "id": 3,
       "publishDate": "July 3, 2023",
-      "url": "https://y-n10.com/",
+      "url": "https://www.are.na/",
       "description": "What else can you expect from the family that created Nintendo? A delightful single-page scroller living in a video game world.",
       "technologies": [
         "HTML",
@@ -129,8 +129,6 @@
       ]
     },
     {
-      "id": 9,
-      "publishDate": "Dec 28, 2022",
       "url": "https://nosajthing.com/",
       "description": "An e-com with background interaction that both structures and guides, this site for Cavempt is full of moments of personality.",
       "technologies": [
@@ -141,7 +139,9 @@
       "categories": [
         "Audio",
         "Portfolio"
-      ]
+      ],
+      "publishDate": "March 14, 2024",
+      "id": 9
     },
     {
       "id": 10,
