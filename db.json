@@ -245,11 +245,11 @@
     },
     {
       "id": 7,
-      "name": "WebGL"
+      "name": "Node.js"
     },
     {
       "id": 8,
-      "name": "Three.js"
+      "name": "Remix.js"
     }
   ]
 }
